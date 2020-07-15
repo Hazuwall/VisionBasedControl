@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 .vscode/
-1/
 control_network/
 logs/
 q_network/

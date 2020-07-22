@@ -8,7 +8,7 @@ import network_utils
 
 # Параметры
 
-steps = 1
+steps = 5000
 start_step = 0
 episode = 0
 display_step = 10
